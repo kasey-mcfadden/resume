@@ -1,19 +1,24 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Merck
+- company: Merck
+  position: Software Engineer Intern
+  duration: Summer 2020 & 2019
+  summary: Recruited for data visualization internship after winning Merck hackathon challenge, and invited back the following summer. <ul class="resume-item-list"><li>Pursuing machine learning project to automate tablet disintegration analysis</li><li>Created dynamic visualization maps for pharmaceutical product distribution tracking and fraud detection</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Venus
+- company: Venus Technology Ventures
+  position: Software Development Intern
+  duration: January &mdash; July, 2019
+  summary: Developed AI chatbot, front-end UI overhaul, database clean, privacy rework, and user authentication system and implemented over 10 APIs, including Slack and Alexa.
 
+# Citi
+- company: Citi
+  position: D1 Finance Education & Mentorship Program
+  duration: September, 2018 &mdash; April, 2019
+  summary: Engaged in monthly mentoring sessions with Citi professionals and quarterly financial education webinars.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Vonage
+- company: Vonage
+  position: Software Development Intern
+  duration: Summer 2017 & 2018
+  summary: Invited back to Vonage for second consecutive internship in software development. <ul class="resume-item-list"><li>Second year, took on leading role in Intern Innovation Challenge team of five, pitched creative strategy that drove success, won competitive, multi-team challenge (voted winner by judge panel of 10+ including CEO, SVP, VP), developed containerized performance monitoring solutions for over 10,000 client accounts</li><li>First year, created independent project to integrate Nexmo, Google Calendars, Gmail, and IBM Watson to launch SMS-based reminder chatbot with python, incorporated AI, SMS, verification, and email APIs</li></ul>
