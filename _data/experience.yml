@@ -3,7 +3,7 @@
 - company: Merck
   position: Software Engineer Intern
   duration: Summer 2020 & 2019
-  summary: Recruited for data visualization internship after winning Merck hackathon challenge, and invited back the following summer. <ul class="resume-item-list"><li>Pursuing machine learning project to automate tablet disintegration analysis</li><li>Created dynamic visualization maps for pharmaceutical product distribution tracking and fraud detection</li></ul>
+  summary: Recruited for data visualization internship after winning Merck hackathon challenge, and invited back the following summer. <ul class="resume-item-list"><li>Second year, utilized computer vision and machine learning to automate tablet disintegration analysis</li><li>First year, created dynamic visualization maps for pharmaceutical product distribution tracking and fraud detection</li></ul>
 
 # Venus
 - company: Venus Technology Ventures
@@ -21,4 +21,4 @@
 - company: Vonage
   position: Software Development Intern
   duration: Summer 2017 & 2018
-  summary: Invited back to Vonage for second consecutive internship in software development. <ul class="resume-item-list"><li>Second year, took on leading role in Intern Innovation Challenge team of five, pitched creative strategy that drove success, won competitive, multi-team challenge (voted winner by judge panel of 10+ including CEO, SVP, VP), developed containerized performance monitoring solutions for over 10,000 client accounts</li><li>First year, created independent project to integrate Nexmo, Google Calendars, Gmail, and IBM Watson to launch SMS-based reminder chatbot with python, incorporated AI, SMS, verification, and email APIs</li></ul>
+  summary: Invited to Vonage for two consecutive internships in software development. <ul class="resume-item-list"><li>Second year, took on leading role in Intern Innovation Challenge team of five, pitched creative strategy that drove success, won competitive, multi-team challenge (voted winner by judge panel of 10+ including CEO, SVP, VP), developed containerized performance monitoring solutions for over 10,000 client accounts</li><li>First year, created independent project to integrate Nexmo, Google Calendars, Gmail, and IBM Watson to launch SMS-based reminder chatbot with python, incorporated AI, SMS, verification, and email APIs</li></ul>

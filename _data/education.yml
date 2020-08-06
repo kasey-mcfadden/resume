@@ -4,9 +4,11 @@
   year: Expected 2022
   summary: Relevant coursework includes
   awards:
+    - award: Advanced Programming Techniques
     - award: Introduction to Machine Learning
     - award: Reasoning About Computation
     - award: Algorithms and Data Structures
+    - award: Principles of Computer System Design
     - award: Introduction to Programming Systems
   
 
