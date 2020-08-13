@@ -2,24 +2,23 @@
 - degree: Bachelor of Science in Engineering, Computer Science
   uni: Princeton University
   year: Expected 2022
-  summary: Relevant coursework includes
-  awards:
-    - award: Advanced Programming Techniques
-    - award: Introduction to Machine Learning
-    - award: Reasoning About Computation
-    - award: Algorithms and Data Structures
-    - award: Principles of Computer System Design
-    - award: Introduction to Programming Systems
+  summary: "Relevant coursework includes:"
+  courses:
+    - course: Advanced Programming Techniques
+    - course: Introduction to Machine Learning
+    - course: Reasoning About Computation
+    - course: Algorithms and Data Structures
+    - course: Principles of Computer System Design
+    - course: Introduction to Programming Systems
   
 
 - degree: Graduated Salutatorian
   uni: Matawan Regional High School
   year: 2017
-  awards: 
-    - award: STEM Academy
-    - award: 8 AP Courses
-    - award: "SAT: 800/800 (M), 790/800 (CR)"
-    - award: President of Math & English Honor Societies
-    - award: Most studious
-    - award: Best dressed
   # summary: 
+  courses: 
+    - course: STEM Academy
+    - course: National Honor Society, National AP Scholar
+    - course: "SAT: 800/800 (Math), 790/800 (Critical Reading)"
+    - course: President of Mathematics & English Honor Societies
+    - course: Most Studious

@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     "http://linkedin.com/in/kaseymcfadden/ • 732-675-3994 • kaseym@princeton.edu"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm a software developer and current undergraduate student at Princeton University pursuing an engineering bachelor's degree in computer science. I'm thinking about concentrating in Machine Learning & Statistics or Cognitive Science.</p>"
+resume_header_intro: "I'm a software developer and current undergraduate student at Princeton University pursuing an engineering bachelor's degree in computer science. I'm thinking about concentrating in Statistics and Machine Learning."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -43,16 +43,16 @@ resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
-# uncomment the options you wish to display, and add your own URL
 resume_social_links:
+  resume_print_url:             "https://github.com/kasey-mcfadden/resume/_assets/resume.pdf"
   resume_github_url:            "https://github.com/kasey-mcfadden"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_twitter_url:           ""
+  # resume_dribbble_url:          ""
+  # resume_facebook_url:          ""
   resume_linkedin_url:          "https://linkedin.com/in/kaseymcfadden"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_instagram_url:         ""
   resume_website_url:           "https://kasey-mcfadden.github.io/"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings

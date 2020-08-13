@@ -1,6 +1,6 @@
-# Portfolio Site
+# Online Resume
 
-https://kasey-mcfadden.github.io/
+https://kasey-mcfadden.github.io/resume/
 
 
 ### Running locally

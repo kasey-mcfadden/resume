@@ -1,15 +1,30 @@
 # Jobs
+
 # Merck
 - company: Merck
   position: Software Engineer Intern
-  duration: Summer 2020 & 2019
-  summary: Recruited for data visualization internship after winning Merck hackathon challenge, and invited back the following summer. <ul class="resume-item-list"><li>Second year, utilized computer vision and machine learning to automate tablet disintegration analysis</li><li>First year, created dynamic visualization maps for pharmaceutical product distribution tracking and fraud detection</li></ul>
+  duration: Summer 2020
+  summary: Invited back to Merck for second internship in software development.
+  roles:
+    - role: "Utilized computer vision (openCV) and machine learning (FRCNN) to automate tablet disintegration analysis"
+    - role: "Revamped company-wide chatbot and scheduling assistant, improved user privacy and data storage"
+
+# Merck
+- company: Merck
+  position: Data Visualization Intern
+  duration: Summer 2019
+  summary: Recruited for data visualization internship after winning Merck hackathon challenge.
+  roles:
+    - role: "Created dynamic visualization maps for pharmaceutical product distribution tracking and fraud detection"
 
 # Venus
 - company: Venus Technology Ventures
   position: Software Development Intern
   duration: January &mdash; July, 2019
-  summary: Developed AI chatbot, front-end UI overhaul, database clean, privacy rework, and user authentication system and implemented over 10 APIs, including Slack and Alexa.
+  summary: Recruited to FinTech Startup as Full-Stack Developer during gap year.
+  roles:
+    - role: "Expanded AI chatbot capabilities, led front-end UI overhaul, database clean, and privacy rework"
+    - role: "Developed user authentication system and implemented over 10 APIs, including Slack and Alexa"
 
 # Citi
 - company: Citi
@@ -20,5 +35,18 @@
 # Vonage
 - company: Vonage
   position: Software Development Intern
-  duration: Summer 2017 & 2018
-  summary: Invited to Vonage for two consecutive internships in software development. <ul class="resume-item-list"><li>Second year, took on leading role in Intern Innovation Challenge team of five, pitched creative strategy that drove success, won competitive, multi-team challenge (voted winner by judge panel of 10+ including CEO, SVP, VP), developed containerized performance monitoring solutions for over 10,000 client accounts</li><li>First year, created independent project to integrate Nexmo, Google Calendars, Gmail, and IBM Watson to launch SMS-based reminder chatbot with python, incorporated AI, SMS, verification, and email APIs</li></ul>
+  duration: Summer 2018
+  summary: Invited back to Vonage for second internship in software development.
+  roles:
+    - role: "Took on leading role in Intern Innovation Challenge team of five, pitched creative strategy that ultimately drove success"
+    - role: "Won competitive, multi-team 6-week challenge (voted winner by judge panel of 10+ including CEO, SVP, VP)"
+    - role: "Developed containerized performance monitoring solutions for over 10,000 client accounts"
+
+# Vonage
+- company: Vonage
+  position: Software Development Intern
+  duration: Summer 2017
+  summary: Hired as recent high school graduate, given independence to design project of choosing.
+  roles:
+    - role: "Created independent project to integrate Nexmo, Google Calendars, Gmail, and IBM Watson to launch SMS-based reminder chatbot with python"
+    - role: "Incorporated AI, SMS, verification, and email APIs - supported project with AWS Lambda and API Gateway"
